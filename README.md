@@ -70,6 +70,8 @@ A robust backend API for a social network application built using Express.js and
 
 [Link to Video Demonstration](<https://drive.google.com/file/d/1Eg2gxhE5gynqMHNTSYhoSWjif1p_efKz/view?usp=sharing>)
 
+I had a slight hiccup while recording the video, specifically when I was trying to delete a reaction. But i fixed the issue mid recording. Please watch all the way through.
+
 ## Credits
 
 - Starter code provided by Professor Phil.
