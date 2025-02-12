@@ -69,7 +69,7 @@ module.exports = {
       res.status(500).json(err);
     }
   },
-  // Add a video response
+  // Add a friend
   async addFriend(req, res) {
     try {
       const user = await User.findOneAndUpdate(
@@ -87,7 +87,7 @@ module.exports = {
       res.status(500).json(err);
     }
   },
-  // Remove video response
+  // Remove a friend
   async removeFriend(req, res) {
     try {
       const user = await User.findOneAndUpdate(
